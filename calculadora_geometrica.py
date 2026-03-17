@@ -1,6 +1,6 @@
 salir = True
 
-while salir == False:
+while salir == True:
 
  print("Hola, bienvenido a la calculadora geometrica")
 
